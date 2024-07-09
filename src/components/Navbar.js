@@ -137,7 +137,7 @@ function CustomNavbar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Dixith-ai"
+                href="https://github.com/Dixith-ai/portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
