@@ -4,7 +4,7 @@ import CertificationCard from "./CertificationCard";
 import Particle from "../Particle";
 import cert1 from "../../Assets/Certifications/M Dixith adithya - (Freedom With AI) Certificate (1)_page-0001.jpg";
 import cert2 from "../../Assets/Certifications/M. DIXITH ADITHYA-1_page-0001 (1).jpg";
-import cert3 from "../../Assets/Projects/coming-soon.jpg";
+import cert3 from "../../Assets/Certifications/a4.jpeg";
 
 function Certifications() {
   return (
