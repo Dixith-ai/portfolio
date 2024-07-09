@@ -24,7 +24,7 @@
 
                 <h1 className="heading-name">
                   I am
-                  <strong className="main-name"> ADITHYA</strong>
+                  <strong className="main-name"> M DIXITH ADITHYA</strong>
                   <img
                       src={profilePic}
                       alt="profile pic"
