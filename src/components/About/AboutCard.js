@@ -4,7 +4,7 @@ import { ImBooks, ImCompass2, ImHeadphones, ImEarth } from "react-icons/im"; // 
 import { FaMountain } from "react-icons/fa"; // Importing FaMountain icon for mountains
 
 function AboutCard() {
-  const playlistLink = "https://rb.gy/1qkfee";
+  const playlistLink = "https://music.youtube.com/playlist?list=PLf02ZPGW086pNUIBzBXLMqGteOIOjUoia&si=vw9Iupr1MRGLh75E";
 
   return (
     <Card className="quote-card-view">
