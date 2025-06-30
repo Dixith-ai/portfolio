@@ -1,7 +1,4 @@
 # 👋 Welcome to My Portfolio
-
-<div align="center">
-  <img src="src/Assets/pp.png" alt="M Dixith Adithya" width="200" style="border-radius: 50%;"/>
   
   # M DIXITH ADITHYA
   
