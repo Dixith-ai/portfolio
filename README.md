@@ -77,9 +77,6 @@ This portfolio is constantly evolving. Upcoming enhancements:
 
  Add CMS for dynamic project updates (e.g. Sanity/Notion)
 
-🖼️ Screenshots
-(Insert a few screenshots of your homepage, project cards, and mobile view here)
-
 🤝 Let's Connect
 Want to collaborate, hire me, or just chat?
 
