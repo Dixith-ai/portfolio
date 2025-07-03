@@ -1,7 +1,4 @@
 # 👋 Welcome to My Portfolio
-
-<div align="center">
-  <img src="src/Assets/pp.png" alt="M Dixith Adithya" width="200" style="border-radius: 50%;"/>
   
   # M DIXITH ADITHYA
   
@@ -92,34 +89,6 @@ I'm a passionate **Computer Science & Technology** student from **Bengaluru, Ind
   - **Technical Certifications** - Various industry-recognized credentials
   
   *Continuous learning is key to innovation*
-  
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-  
-</div>
-
----
-
-## 🎵 Current Vibes
-
-<div align="center">
-  
-  ### 🎶 What I'm Listening To
-  
-  [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/playlist?list=PLf02ZPGW086pNUIBzBXLMqGteOIOjUoia&si=vw9Iupr1MRGLh75E)
-  
-  *Check out my current playlist that I'm vibing to! 🎵*
   
 </div>
 
